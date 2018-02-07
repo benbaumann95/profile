@@ -25,6 +25,10 @@ h2 {
   color: #C8AF74;
 }
 
+h2:hover {
+   color: #D38484;
+}
+
 h3 {
   color: #708D81
 }
@@ -180,5 +184,8 @@ ul {
   font-size:
   16px;
 }
+
+
+
 
 
